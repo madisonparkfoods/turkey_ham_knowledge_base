@@ -1,0 +1,7 @@
+interface:
+  display_name: "Turkey Roasting Coach"
+  short_description: "Thaw, brine, roast and carve a juicy turkey"
+  brand_color: "#B5562A"
+  default_prompt: "Walk me through cooking a 14 lb frozen turkey."
+policy:
+  allow_implicit_invocation: true

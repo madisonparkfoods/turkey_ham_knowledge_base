@@ -1,0 +1,7 @@
+interface:
+  display_name: "Food Safety & Leftovers"
+  short_description: "USDA temperatures, storage times and reheating"
+  brand_color: "#B5562A"
+  default_prompt: "How long is leftover turkey and stuffing good for?"
+policy:
+  allow_implicit_invocation: true

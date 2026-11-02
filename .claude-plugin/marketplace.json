@@ -1,0 +1,17 @@
+{
+  "name": "holiday-feast-marketplace",
+  "description": "Holiday cooking plugins: turkey, ham, meal planning, timing, food safety, and Madison Park Foods pairings, with a bundled knowledge base.",
+  "owner": {
+    "name": "Ed"
+  },
+  "plugins": [
+    {
+      "name": "holiday-feast",
+      "source": "./plugins/holiday-feast",
+      "description": "Eight skills plus a 19-file knowledge base for planning, cooking and timing a holiday turkey or ham, with Madison Park Foods product guidance.",
+      "version": "1.0.0",
+      "category": "food-and-cooking",
+      "tags": ["thanksgiving", "turkey", "ham", "cooking", "madison-park-foods"]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Madison Park Pairing"
+  short_description: "Use Madison Park Foods seasonings the right way"
+  brand_color: "#B5562A"
+  default_prompt: "How should I use Chairman of the Bird on my turkey?"
+policy:
+  allow_implicit_invocation: true

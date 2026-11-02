@@ -1,0 +1,7 @@
+interface:
+  display_name: "Holiday Meal Planner"
+  short_description: "Menu, quantities and shopping list from a headcount"
+  brand_color: "#B5562A"
+  default_prompt: "Plan Thanksgiving dinner for 12 people, first time hosting."
+policy:
+  allow_implicit_invocation: true

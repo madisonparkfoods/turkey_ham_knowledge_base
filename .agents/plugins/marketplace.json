@@ -1,0 +1,20 @@
+{
+  "name": "holiday-feast-marketplace",
+  "interface": {
+    "displayName": "Holiday Feast"
+  },
+  "plugins": [
+    {
+      "name": "holiday-feast",
+      "source": {
+        "source": "local",
+        "path": "./plugins/holiday-feast"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Lifestyle"
+    }
+  ]
+}

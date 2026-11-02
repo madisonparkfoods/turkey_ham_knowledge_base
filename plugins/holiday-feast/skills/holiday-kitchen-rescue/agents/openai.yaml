@@ -1,0 +1,7 @@
+interface:
+  display_name: "Kitchen Rescue"
+  short_description: "Quick fixes when holiday cooking goes wrong"
+  brand_color: "#B5562A"
+  default_prompt: "My turkey skin is too dark and the thighs are at 150\u00b0F."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Holiday Cooking Knowledge"
+  short_description: "Answers from the holiday cooking knowledge base"
+  brand_color: "#B5562A"
+  default_prompt: "What should a first-time Thanksgiving host know?"
+policy:
+  allow_implicit_invocation: true

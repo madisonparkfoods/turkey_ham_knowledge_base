@@ -1,0 +1,7 @@
+interface:
+  display_name: "Holiday Ham Guide"
+  short_description: "Reheat or cook, glaze and carve a holiday ham"
+  brand_color: "#B5562A"
+  default_prompt: "I have an 8 lb spiral ham. How do I heat and glaze it?"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Cooking Timeline Builder"
+  short_description: "Countdown and day-of schedule for one oven"
+  brand_color: "#B5562A"
+  default_prompt: "Build a timeline for turkey and sides, dinner at 4 PM."
+policy:
+  allow_implicit_invocation: true
