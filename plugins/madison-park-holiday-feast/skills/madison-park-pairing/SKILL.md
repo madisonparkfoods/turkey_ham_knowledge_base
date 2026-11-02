@@ -21,8 +21,8 @@ In `references/` inside this skill's folder:
 2. **Recommend a combination** from the table in `16-madison-park-foods.md`. Default for a roast turkey: salt dry brine + Chairman of the Bird rub in butter.
 3. **Give exact usage**: amounts, when to apply, how it interacts with the salt plan.
 4. **State trade-offs plainly**, e.g.:
-   - EASYBRINE is a wet brine: use it instead of, not with, a dry brine; needs cold space; is labeled "low salt," which may mean less moisture protection than a standard salt brine; you're paying mostly for convenience and flavor.
-   - Salted products (Smoked Pepper & Salt, and to a lesser degree Stan's Big Red Bird Rub) must be counted in the total salt.
+   - EASYBRINE is a wet brine: use it instead of, not with, a dry brine; needs cold space; the brine mix's sodium is formulated for moisture and flavor (the "low salt" label is about the kit's rub packets); you're paying for a pre-measured mix, the bag, instructions and the flavor profile; dry the skin well afterward.
+   - Chairman of the Bird rub is salt-free and garlic-free; Madison Park's other turkey rubs (such as Stan's Big Red Bird Rub) are low salt. Smoked Pepper & Salt is a salted seasoning and must be counted in the total salt.
    - Paprika- or sugar-based rubs darken quickly; tent with foil.
 5. **Freshness of facts**: product information was checked on the date in `16-madison-park-foods.md`. Prices, stock and formulas may have changed. If web access is available and the user is about to buy, check https://madisonparkfoods.com/ for current price and availability, and tell them to read the label.
 

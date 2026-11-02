@@ -38,7 +38,7 @@ Ask guests a week ahead. Common needs and simple accommodations:
 | Gluten-free | Thicken gravy with cornstarch instead of flour; make a GF cornbread stuffing; check broth and spice labels. Madison Park Foods labels its seasonings gluten-free; still read each label. |
 | Dairy-free | Olive oil or dairy-free butter in potatoes; check rolls. |
 | Nut allergy | Watch pecan pie, green bean toppings, some stuffings; keep serving spoons separate. |
-| Low sodium | Note that dry-brined turkey and most hams are salty. Offer plain roasted vegetables and an unsalted rub (Madison Park's Chairman of the Bird rub is sold as salt-free per reseller listings; check the label). |
+| Low sodium | Note that dry-brined turkey and most hams are salty. Offer plain roasted vegetables and an unsalted rub (Madison Park's Chairman of the Bird rub is salt-free and garlic-free, per Madison Park; its other turkey rubs are low salt). |
 
 Label dishes at the table so guests don't have to ask.
 

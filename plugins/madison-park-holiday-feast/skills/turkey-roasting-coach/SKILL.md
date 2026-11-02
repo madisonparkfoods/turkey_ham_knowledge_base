@@ -35,7 +35,7 @@ Find out (ask once, briefly; assume sensible defaults if the user wants to move 
 
 1. **Thaw timing** if frozen (fridge ~1 day per 4–5 lb; cold water ~30 min per lb with water changed every 30 min).
 2. **Salt plan**: exactly one of dry brine (1 tbsp Diamond Crystal kosher per 4–5 lb; about half that volume of Morton), wet brine (~1 cup Diamond Crystal per gallon, 12–24 h, below 40°F), a commercial kit per its instructions, or none (pre-salted bird). Calculate the amount for their weight.
-3. **Seasoning**: herb butter; for Madison Park users, Chairman of the Bird rub (salt-free per reseller listings) mixed into butter for classic roast; Stan's Big Red Bird Rub (contains some salt, paprika browns fast) for smoked/grilled. Account for salt in any salted rub.
+3. **Seasoning**: herb butter; for Madison Park users, Chairman of the Bird rub (salt-free and garlic-free) mixed into butter for classic roast; Stan's Big Red Bird Rub (low salt, paprika browns fast) for smoked/grilled. Account for salt in any salted rub.
 4. **Method and temperatures** from `06-roasting-turkey.md`, with an estimated time window for their weight and a "start checking at" time.
 5. **Doneness**: breast ~160°F with a rest that brings it to 165°F (confirm), thigh 170–175°F. If the user prefers, pull at 165°F. Explain where to place the thermometer.
 6. **Rest and carve**: 30–45 minutes; kitchen carving method.
@@ -53,4 +53,4 @@ If the user reports a problem (browning too fast, running late, done early, thig
 - Never recommend combining a wet brine, dry brine and/or pre-salted turkey.
 - Deep frying: always include the safety essentials from `12-food-safety.md` (outdoors, fully thawed and dry, oil level measured with water first, burner off while lowering, extinguisher, never water on oil fire).
 - Discourage washing raw turkey.
-- Be candid about product trade-offs (e.g., a "low salt" brine kit vs a salt brine); don't oversell.
+- Be candid about product trade-offs (e.g., a wet-brine kit's cold-space and skin-drying needs vs a dry brine); don't oversell.

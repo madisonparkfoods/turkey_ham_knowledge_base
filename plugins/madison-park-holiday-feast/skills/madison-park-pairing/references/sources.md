@@ -19,6 +19,8 @@ The USDA reorganizes its site periodically; if a link moves, search fsis.usda.go
 - Reseller listing for Stan's Big Red Bird Rub (3 oz, paprika/garlic/onion/cayenne, low-sodium claim): https://groceryeshop.us/products/madison-park-foods-stan-s-big-red-bird-rub-poultry-seasoning-all-natural-gluten-free-low-salt-3oz-pouch-reddish-brown
 - Faire wholesale listing for the brine kit (capacity up to 30 lb): https://www.faire.com/product/p_qsnyey5c23
 
+- Madison Park Foods, direct correction to this knowledge base (2026-11-02): Chairman of the Bird rub is the best seller and is salt-free and garlic-free; the other turkey rubs and poultry seasonings are low salt; the EASYBRINE kit's "low salt" label refers to its rub packets, and the brine mix's sodium is formulated for moisture retention and flavor.
+
 Reseller listings are lower-confidence than the company's own pages and the product label.
 
 ## Cooking technique

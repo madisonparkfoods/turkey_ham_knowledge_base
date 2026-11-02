@@ -37,7 +37,7 @@ Pick **one** method: dry brine **or** wet brine **or** a pre-salted (kosher/enha
 4. Remove, pat very dry, and ideally refrigerate uncovered for several hours or overnight so the skin dries.
 5. Discard the brine. Don't reuse it or make gravy from it.
 
-**Using a commercial brine kit** (such as Madison Park's Chairman of the Bird EASYBRINE): follow the kit's own salt and time instructions, since its salt level differs from homemade. See [16-madison-park-foods.md](16-madison-park-foods.md).
+**Using a commercial brine kit** (such as Madison Park's Chairman of the Bird EASYBRINE): follow the kit's own salt and time instructions, since its salt level differs from homemade. Madison Park formulates the EASYBRINE brine mix's sodium for moisture retention and flavor; the kit's "low salt" label refers to its rub packets. See [16-madison-park-foods.md](16-madison-park-foods.md).
 
 ## Do NOT brine if
 
@@ -62,7 +62,7 @@ A compound butter under and over the skin adds flavor and helps browning.
 
 Mash together. After dry brining, spread some under the breast skin and the rest over the skin just before roasting. If the turkey was wet-brined or is kosher, use unsalted butter and no extra salt.
 
-**Madison Park suggestion:** the company suggests adding its Chairman of the Bird rub to seasoned butter or applying it all over just before roasting. The rub is sold as salt-free per reseller listings, which makes it a natural partner for a salt dry brine.
+**Madison Park suggestion:** the company suggests adding its Chairman of the Bird rub to seasoned butter or applying it all over just before roasting. The rub is salt-free and garlic-free (Madison Park says), which makes it a natural partner for a salt dry brine.
 
 ## Aromatics in the cavity
 
