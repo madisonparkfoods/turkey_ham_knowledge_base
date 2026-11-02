@@ -18,7 +18,7 @@ For a 12–14 lb, dry-brined turkey. See [05-brining-and-seasoning.md](05-brinin
 **Ingredients**
 
 - 1 whole turkey, 12–14 lb, thawed, dry-brined 1–3 days
-- 4 tbsp softened unsalted butter (or herb butter)
+- 4 tbsp softened unsalted butter (or herb butter). Optional: mix in 2–3 tbsp of a salt-free rub such as Madison Park's Chairman of the Bird, so the butter adds flavor without adding to the dry brine's salt.
 - 1 onion, quartered; 1 lemon, halved; 1 head garlic, halved; a small bunch of thyme, sage and rosemary
 - 2 cups chicken or turkey stock
 

@@ -58,6 +58,8 @@ Make it within a day or two of the holiday, keeping the carcass refrigerated.
 - Fried rice with diced ham or turkey
 - Stuffing waffles; mashed potato pancakes
 
+**Madison Park suggestion:** a spoonful of Tuscan Verde or Chairman of the Bird seasons turkey soup or pot pie in place of fresh herbs. Taste before salting.
+
 ## Sending leftovers home with guests
 
 Pack in shallow containers, tell guests to refrigerate within 2 hours, and have them use it within 3–4 days. Have containers or foil ready before dinner.

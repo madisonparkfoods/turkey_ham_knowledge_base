@@ -5,10 +5,10 @@
   },
   "plugins": [
     {
-      "name": "holiday-feast",
+      "name": "madison-park-holiday-feast",
       "source": {
         "source": "local",
-        "path": "./plugins/holiday-feast"
+        "path": "./plugins/madison-park-holiday-feast"
       },
       "policy": {
         "installation": "AVAILABLE",

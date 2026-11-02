@@ -35,7 +35,7 @@ Plan ⅓–½ cup gravy per person. For 12 people, make about 5–6 cups.
 | Too thin | Simmer longer to reduce, or whisk in a slurry (1 tsp cornstarch + 1 tbsp cold water) and simmer 1 minute. Repeat as needed. |
 | Too thick | Whisk in warm stock a few tablespoons at a time. |
 | Too salty | Add unsalted stock and more thickener, or a splash of cream; there's no true "absorb salt" trick (a potato doesn't really help). |
-| Bland | Simmer to concentrate; add a splash of soy sauce, a pinch of herbs or a rub, pepper, or a teaspoon of the pan's browned bits. |
+| Bland | Simmer to concentrate; add a splash of soy sauce, a pinch of herbs or a salt-free rub (such as Chairman of the Bird), pepper, or a teaspoon of the pan's browned bits. |
 | Greasy | Let it sit and skim the fat off the top, or blot with a paper towel laid on the surface. |
 | Pale | A few drops of soy sauce or browning sauce; brown the roux longer next time. |
 | Not enough | Stretch with stock + a quick roux; this is why make-ahead gravy helps. |

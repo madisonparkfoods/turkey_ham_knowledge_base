@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Copy the canonical knowledge base into every skill's references/ folder.
 
-Edit files in plugins/holiday-feast/knowledge/, then run:
+Edit files in plugins/madison-park-holiday-feast/knowledge/, then run:
 
     python3 scripts/sync_knowledge.py          # copy
     python3 scripts/sync_knowledge.py --check  # exit 1 if any copy is stale
@@ -15,7 +15,7 @@ import shutil
 import sys
 from pathlib import Path
 
-PLUGIN = Path(__file__).resolve().parent.parent / "plugins" / "holiday-feast"
+PLUGIN = Path(__file__).resolve().parent.parent / "plugins" / "madison-park-holiday-feast"
 KNOWLEDGE = PLUGIN / "knowledge"
 SKILLS = PLUGIN / "skills"
 

@@ -1,0 +1,22 @@
+{
+  "name": "madison-park-holiday-feast",
+  "displayName": "Madison Park Holiday Feast",
+  "version": "1.0.0",
+  "description": "Skills and a knowledge base for cooking a Thanksgiving or holiday turkey or ham, planning and timing the meal, food safety and leftovers, and using Madison Park Foods seasonings.",
+  "author": {
+    "name": "Madison Park Foods",
+    "url": "https://madisonparkfoods.com/"
+  },
+  "homepage": "https://github.com/madisonparkfoods/turkey_ham_knowledge_base",
+  "repository": "https://github.com/madisonparkfoods/turkey_ham_knowledge_base",
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": [
+    "thanksgiving",
+    "turkey",
+    "ham",
+    "holiday",
+    "cooking",
+    "food-safety",
+    "madison-park-foods"
+  ]
+}

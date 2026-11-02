@@ -1,0 +1,42 @@
+{
+  "name": "madison-park-holiday-feast",
+  "version": "1.0.0",
+  "description": "Skills and a knowledge base for cooking a Thanksgiving or holiday turkey or ham, planning and timing the meal, food safety and leftovers, and using Madison Park Foods seasonings.",
+  "author": {
+    "name": "Madison Park Foods",
+    "url": "https://madisonparkfoods.com/"
+  },
+  "homepage": "https://github.com/madisonparkfoods/turkey_ham_knowledge_base",
+  "repository": "https://github.com/madisonparkfoods/turkey_ham_knowledge_base",
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": [
+    "thanksgiving",
+    "turkey",
+    "ham",
+    "holiday",
+    "cooking",
+    "food-safety",
+    "madison-park-foods"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Madison Park Holiday Feast",
+    "shortDescription": "Holiday turkey and ham coach",
+    "longDescription": "Eight skills and a 19-file knowledge base for first-time and experienced holiday hosts: meal planning and quantities, thawing and brining, roasting turkey (classic, spatchcock, breast, smoked, fried), reheating and glazing ham, day-of timelines for one oven, gravy and sides, fixes for problems mid-cook, USDA food-safety temperatures and leftover storage, and guidance on Madison Park Foods seasonings such as Chairman of the Bird. Limitations: general cooking and food-safety information, not medical or nutritional advice; Madison Park product prices, stock and ingredients were checked on 2026-11-01 and may change, so read the label; Thanksgiving dates are for 2026. The plugin collects no personal data and runs no code. When the assistant has web access, one skill may check madisonparkfoods.com for current prices and stock.",
+    "developerName": "Madison Park Foods",
+    "category": "Lifestyle",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Plan Thanksgiving for 12 people.",
+      "Walk me through roasting a 14 lb turkey.",
+      "Build a timeline for dinner at 4 PM."
+    ],
+    "brandColor": "#B5562A",
+    "logo": "./assets/logo.png",
+    "composerIcon": "./assets/composer-icon.png",
+    "websiteURL": "https://madisonparkfoods.com/",
+    "supportURL": "TODO-replace-with-support-URL",
+    "privacyPolicyURL": "TODO-replace-with-privacy-policy-URL",
+    "termsOfServiceURL": "TODO-replace-with-terms-of-service-URL"
+  }
+}
