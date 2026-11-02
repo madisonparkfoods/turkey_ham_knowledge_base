@@ -53,7 +53,7 @@ Apply only in the last 15–25 minutes. Basic formula: **sweet + tangy + spice.*
 
 Simmer the glaze 3–5 minutes to thicken it so it clings.
 
-**Suggested Madison Park uses (ours, not the company's):** 1–2 tsp of Colonial Tavern (described by Madison Park as slightly sweet, spicy and savory with a touch of salt and heat) stirred into the brown sugar mustard glaze; or CRIMBERA Haiku Fusion Blend (Urfa biber, sumac, smoked paprika, hibiscus, cassia) in the cranberry glaze for a warm, tart edge. Taste first: hams are already salty.
+**Madison Park serving suggestions:** 1–2 tsp of Colonial Tavern (described by Madison Park as slightly sweet, spicy and savory with a touch of salt and heat) stirred into the brown sugar mustard glaze; or CRIMBERA Haiku Fusion Blend (Urfa biber, sumac, smoked paprika, hibiscus, cassia) in the cranberry glaze for a warm, tart edge. Taste first: hams are already salty.
 
 ## Carving a ham
 

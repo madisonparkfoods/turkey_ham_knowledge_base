@@ -45,14 +45,21 @@ claude plugin install holiday-feast@holiday-feast-marketplace
 
 In a session: `/plugin marketplace add ./holiday-feast-marketplace`, then `/plugin install holiday-feast@holiday-feast-marketplace`. Skills appear as `/holiday-feast:<skill>`.
 
-From GitHub: `claude plugin marketplace add <owner>/<repo>`.
+From GitHub ([madisonparkfoods/turkey_ham_knowledge_base](https://github.com/madisonparkfoods/turkey_ham_knowledge_base)):
+
+```bash
+claude plugin marketplace add madisonparkfoods/turkey_ham_knowledge_base
+claude plugin install holiday-feast@holiday-feast-marketplace
+```
+
+The contents of this folder must be the repository root (so `.claude-plugin/marketplace.json` and `.agents/plugins/marketplace.json` sit at the top level), or the GitHub install won't find the marketplace.
 
 **Claude.ai (single skills):** upload a zip from `dist/skills/` in Claude.ai's skills settings.
 
 ## Codex and ChatGPT
 
 ```bash
-codex plugin marketplace add ./holiday-feast-marketplace     # or <owner>/<repo>
+codex plugin marketplace add ./holiday-feast-marketplace     # or madisonparkfoods/turkey_ham_knowledge_base
 codex plugin add holiday-feast@holiday-feast-marketplace
 codex plugin list
 ```
@@ -63,7 +70,7 @@ codex plugin list
 
 ## Custom GPT (GPT Store)
 
-See [`custom-gpt/README.md`](custom-gpt/README.md): paste `custom-gpt/instructions.md` (5,325 of 8,000 characters), upload the 19 knowledge files, add the four conversation starters. Share by link or publish to the GPT Store.
+See [`custom-gpt/README.md`](custom-gpt/README.md): paste `custom-gpt/instructions.md` (5,357 of 8,000 characters), upload the 19 knowledge files, add the four conversation starters. Share by link or publish to the GPT Store.
 
 ## Build
 
@@ -83,7 +90,7 @@ python3 scripts/build_dist.py        # rebuild dist/ and check limits
 ## Notes
 
 - Food-safety numbers follow USDA FSIS guidance (see `plugins/holiday-feast/knowledge/sources.md`).
-- Madison Park Foods product details were checked 2026-11-01. Not affiliated with Madison Park Foods.
+- Madison Park Foods product details were checked 2026-11-01. This is Madison Park Foods' official holiday cooking plugin.
 - Thanksgiving dates in the knowledge base are for 2026.
 - Bump `version` in both plugin manifests and the Claude marketplace entry when publishing changes.
 - No license is set. Add one before submitting to either public directory.

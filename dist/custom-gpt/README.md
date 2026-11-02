@@ -34,4 +34,4 @@ When you change the knowledge base, re-upload the changed files to the GPT (remo
 
 ## Disclaimer for a public listing
 
-Not affiliated with or endorsed by Madison Park Foods. Food-safety guidance follows USDA FSIS; it is general information, not medical advice.
+Food-safety guidance follows USDA FSIS; it is general information, not medical advice.

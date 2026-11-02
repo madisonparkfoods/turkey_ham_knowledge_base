@@ -37,4 +37,4 @@ Everything needed to cook a Thanksgiving or holiday turkey or ham, run the day, 
 1. **Cook by thermometer, not clock.** Times are estimates; internal temperature is the answer.
 2. **Food-safety numbers follow USDA FSIS guidance.** Where cooks commonly differ from USDA (for example pulling a turkey slightly early and relying on carryover heat), the knowledge base says so explicitly.
 3. **Product facts are dated.** Madison Park Foods prices, stock and ingredients were checked on 2026-11-01 and can change. Always read the label.
-4. **Manufacturer claims vs our suggestions are labeled.** "Madison Park says" means it came from the company; "Suggested use" is ours.
+4. **Label claims vs serving suggestions are labeled.** "Madison Park says" means it comes from the product page or label; "Suggested use" is recipe and serving guidance.

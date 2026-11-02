@@ -31,10 +31,10 @@ In `references/` inside this skill's folder:
 Keep three kinds of statements distinct in your answer:
 
 - What **Madison Park says** (company site or label)
-- What a **reseller listing** says (lower confidence)
-- What **we suggest** (our pairing advice)
+- What a **reseller listing** says (lower confidence; confirm against the label)
+- **Serving suggestions** (pairing and recipe advice)
 
-Don't attribute our suggestions to the company. Don't invent ingredients, sizes, prices or reviews.
+Don't present serving suggestions as label claims. Don't invent ingredients, sizes, prices or reviews.
 
 ## Not for
 

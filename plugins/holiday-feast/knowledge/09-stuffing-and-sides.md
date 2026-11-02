@@ -21,7 +21,7 @@ Serves 10–12.
 
 Variations: add cooked sausage, apples, dried cranberries, toasted pecans, mushrooms or chestnuts. Use cornbread for a gluten-free version (with GF stock).
 
-**Madison Park suggestion (ours):** Tuscan Verde, described as a garden herb blend, is a natural fit in stuffing in place of fresh herbs. Check its salt content before salting.
+**Madison Park suggestion:** Tuscan Verde, described as a garden herb blend, is a natural fit in stuffing in place of fresh herbs. Check its salt content before salting.
 
 ## Mashed potatoes
 
@@ -54,7 +54,7 @@ Simmer until most berries burst, 8–10 minutes. It thickens as it cools. Canned
 | Salad | Prep components ahead; dress at the last minute. No oven needed. |
 | Roasted squash | Roast ahead; reheat or serve room temperature. |
 
-**Madison Park suggestion (ours):** a light dusting of CRIMBERA Haiku Fusion Blend or Tuscan Verde on roasted squash, carrots or sweet potatoes before roasting.
+**Madison Park suggestion:** a light dusting of CRIMBERA Haiku Fusion Blend or Tuscan Verde on roasted squash, carrots or sweet potatoes before roasting.
 
 ## Rolls
 

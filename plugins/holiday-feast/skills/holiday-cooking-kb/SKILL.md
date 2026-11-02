@@ -13,7 +13,7 @@ The knowledge base is in `references/` inside this skill's folder. Start with `0
 
 1. Find the relevant file(s) from the index; read only what you need.
 2. Answer directly, with the specific numbers from the knowledge base.
-3. Keep the knowledge base's distinctions: USDA safety minimums vs. common cooking practice; Madison Park statements vs. reseller listings vs. our suggestions.
+3. Keep the knowledge base's distinctions: USDA safety minimums vs. common cooking practice; label/product-page facts vs. reseller listings vs. serving suggestions.
 4. If the question is better served by a dedicated skill, use it:
    - planning a whole meal → `holiday-meal-planner`
    - cooking a turkey → `turkey-roasting-coach`

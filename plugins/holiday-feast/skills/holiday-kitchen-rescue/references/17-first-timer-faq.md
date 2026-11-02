@@ -116,4 +116,4 @@ For most people: the Chairman of the Bird rub (salt-free) used with a salt dry b
 No. Pick one. → [05](05-brining-and-seasoning.md), [16](16-madison-park-foods.md)
 
 **Can I use them on ham?**
-Colonial Tavern or CRIMBERA in a glaze work well (our suggestion). → [07](07-ham.md), [16](16-madison-park-foods.md)
+Colonial Tavern or CRIMBERA in a glaze work well as a serving suggestion. → [07](07-ham.md), [16](16-madison-park-foods.md)

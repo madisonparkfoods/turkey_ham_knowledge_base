@@ -31,10 +31,10 @@ In Claude Code, skills are namespaced, e.g. `/holiday-feast:turkey-roasting-coac
 
 ```bash
 # Claude Code
-claude plugin marketplace add <owner>/<repo>    # or a local path to holiday-feast-marketplace
+claude plugin marketplace add madisonparkfoods/turkey_ham_knowledge_base    # or a local path to holiday-feast-marketplace
 claude plugin install holiday-feast@holiday-feast-marketplace
 
 # Codex / ChatGPT
-codex plugin marketplace add <owner>/<repo>
+codex plugin marketplace add madisonparkfoods/turkey_ham_knowledge_base
 codex plugin add holiday-feast@holiday-feast-marketplace
 ```

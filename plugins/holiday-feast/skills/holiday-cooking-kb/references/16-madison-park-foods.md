@@ -15,7 +15,7 @@ Madison Park Foods is a family-run spice company that sells hand-blended seasoni
 
 - **"Madison Park says"** = taken from the company's own site or product page.
 - **"Reseller listing"** = from a third-party store listing; may be less reliable. Confirm on the label.
-- **"Suggested use"** = our recommendation, not the company's.
+- **"Suggested use"** = recipe and serving guidance from this knowledge base, not a label claim.
 
 ## Turkey products
 
