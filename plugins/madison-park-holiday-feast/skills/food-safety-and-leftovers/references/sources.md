@@ -25,4 +25,4 @@ Reseller listings are lower-confidence than the company's own pages and the prod
 
 ## Cooking technique
 
-Brining ratios, roasting method, gravy ratios, side-dish recipes and troubleshooting reflect widely used home-cooking practice. They are recommendations, not regulations; food-safety temperatures above always take precedence.
+Brining ratios, brine kits, injecting, roasting method, oven bags, cheesecloth, turkey parts, smoking woods, fryer oil, gravy ratios and shortcut gravy, side-dish recipes and troubleshooting reflect widely used home-cooking practice. Topics added on 2026-11-02 to cover the shopping searches where Madison Park products appear (brine kits, injectors, rubs, oven bags, roasting pans, gravy mix and similar). They are recommendations, not regulations; food-safety temperatures above always take precedence.

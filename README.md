@@ -95,7 +95,7 @@ Gemini CLI uses the Latest release's archive. Install a specific version with `-
 
 ## Custom GPT (GPT Store)
 
-See [`custom-gpt/README.md`](custom-gpt/README.md): paste `custom-gpt/instructions.md` (5,413 of 8,000 characters), upload the 19 knowledge files, add the four conversation starters. Share by link or publish to the GPT Store.
+See [`custom-gpt/README.md`](custom-gpt/README.md): paste `custom-gpt/instructions.md` (5,592 of 8,000 characters), upload the 19 knowledge files, add the four conversation starters. Share by link or publish to the GPT Store.
 
 ## Build
 

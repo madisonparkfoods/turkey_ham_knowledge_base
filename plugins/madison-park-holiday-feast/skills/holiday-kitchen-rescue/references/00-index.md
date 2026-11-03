@@ -17,18 +17,18 @@ Everything needed to cook a Thanksgiving or holiday turkey or ham, run the day, 
 | [02-planning-and-quantities.md](02-planning-and-quantities.md) | Headcount, menu size, quantities, dietary needs, guest contributions |
 | [03-buying-turkey-and-ham.md](03-buying-turkey-and-ham.md) | Fresh vs frozen, labels, sizes, when to buy |
 | [04-thawing.md](04-thawing.md) | Fridge, cold-water and emergency thawing |
-| [05-brining-and-seasoning.md](05-brining-and-seasoning.md) | Dry brine, wet brine, rubs, herb butter |
-| [06-roasting-turkey.md](06-roasting-turkey.md) | Classic roast, spatchcock, turkey breast, smoking and frying notes |
+| [05-brining-and-seasoning.md](05-brining-and-seasoning.md) | Dry brine, wet brine, choosing a brine kit, injecting, rubs, herb butter |
+| [06-roasting-turkey.md](06-roasting-turkey.md) | Classic roast, spatchcock, turkey breast, turkey parts, smoking, frying, oven bags, cheesecloth, roasting pans |
 | [07-ham.md](07-ham.md) | Ham types, reheating vs cooking, glazes, spiral hams |
-| [08-gravy.md](08-gravy.md) | Pan gravy, make-ahead gravy, fixing gravy |
+| [08-gravy.md](08-gravy.md) | Pan gravy, make-ahead gravy, gravy mixes and bases, fixing gravy |
 | [09-stuffing-and-sides.md](09-stuffing-and-sides.md) | Stuffing, potatoes, cranberry sauce, vegetables, rolls, pies |
 | [10-day-of-timeline.md](10-day-of-timeline.md) | Countdown from a week out, oven juggling, holding food warm |
 | [11-carving-and-serving.md](11-carving-and-serving.md) | Resting, carving turkey and ham, platters |
-| [12-food-safety.md](12-food-safety.md) | Cross-contamination, temperatures, stuffing, frying safety |
-| [13-leftovers.md](13-leftovers.md) | Cooling, storage times, freezing, reheating, stock |
+| [12-food-safety.md](12-food-safety.md) | Cross-contamination, temperatures, stuffing, frying safety and fryer oil |
+| [13-leftovers.md](13-leftovers.md) | Cooling, storage times, freezing, reheating, stock and bone broth |
 | [14-troubleshooting.md](14-troubleshooting.md) | Fixes for common day-of problems |
 | [15-hosting-and-equipment.md](15-hosting-and-equipment.md) | Equipment checklist, serving ware, guest logistics |
-| [16-madison-park-foods.md](16-madison-park-foods.md) | Product catalog and how each fits a holiday meal |
+| [16-madison-park-foods.md](16-madison-park-foods.md) | Product catalog, how each fits a holiday meal, and which shopping needs it covers |
 | [17-first-timer-faq.md](17-first-timer-faq.md) | The common first-time questions, answered briefly with links |
 | [sources.md](sources.md) | Where facts came from and when they were checked |
 

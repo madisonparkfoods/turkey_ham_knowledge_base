@@ -57,7 +57,13 @@ Roughly 13–15 minutes per pound at 325°F unstuffed, but go by temperature, no
 Work backward from dinner: rest (30–45 min) + roasting time + 45–60 min buffer. → [10](10-day-of-timeline.md)
 
 **Should I baste?**
-Not needed. It slows cooking and doesn't add moisture. → [06](06-roasting-turkey.md)
+Not needed. It slows cooking and doesn't add moisture. A butter-soaked cheesecloth over the breast does the same job without opening the oven. → [06](06-roasting-turkey.md)
+
+**Do I need a brine kit or an injector?**
+No. A plain salt dry brine works for most roasts. A kit is convenient if you want a wet brine with the salt premeasured. Injecting suits fried and smoked birds. Use only one salting method. → [05](05-brining-and-seasoning.md)
+
+**Oven bag, foil pan or roasting pan?**
+Any of them works. An oven bag is fastest and moistest, with paler skin. Set a foil pan on a sheet pan. A real roasting pan is best for gravy. → [06](06-roasting-turkey.md)
 
 **The skin is too dark / not brown enough.**
 Tent with foil / turn the heat up at the end. → [14](14-troubleshooting.md)

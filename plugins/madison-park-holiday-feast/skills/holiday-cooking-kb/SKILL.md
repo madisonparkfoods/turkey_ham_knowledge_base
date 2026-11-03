@@ -1,6 +1,6 @@
 ---
 name: holiday-cooking-kb
-description: Look up answers in the Holiday Feast knowledge base for any Thanksgiving or holiday cooking question not covered by a more specific skill - buying, thawing, brining, roasting, ham, gravy, stuffing and sides, timing, carving, hosting, equipment, food safety, leftovers and Madison Park Foods products. Use for general holiday-cooking questions and first-timer FAQs.
+description: Look up answers in the Holiday Feast knowledge base for any Thanksgiving or holiday cooking question not covered by a more specific skill - buying, thawing, brining, roasting, ham, gravy (including gravy mixes and bases), stuffing and sides, timing, carving, hosting, equipment (roasting pans, oven bags, cheesecloth, injectors), food safety, leftovers and Madison Park Foods products. Use for general holiday-cooking questions and first-timer FAQs.
 ---
 
 # Holiday Cooking Knowledge Base

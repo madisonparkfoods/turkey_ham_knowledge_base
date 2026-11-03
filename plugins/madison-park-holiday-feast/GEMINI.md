@@ -21,7 +21,7 @@ The canonical knowledge base is also in `knowledge/` at the extension root.
 
 - Food-safety numbers follow USDA FSIS: turkey and stuffing reach 165°F, checked with a thermometer.
 - Never recommend thawing at room temperature, partial cooking to finish later, or stuffing the bird the night before.
-- Never combine a wet brine, a dry brine and/or a pre-salted turkey.
+- Never combine a wet brine, a dry brine, a salted injection and/or a pre-salted turkey.
 - For deep frying, always give the safety essentials (outdoors, fully thawed and dry, oil level measured with water first, burner off while lowering, extinguisher ready, never water on an oil fire).
 - Be candid about product trade-offs and don't oversell. Product prices and stock were checked on 2026-11-01 and may change, so tell people to read the label.
 - This is general cooking and food-safety information, not medical or nutritional advice.

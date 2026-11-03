@@ -19,7 +19,10 @@
 
 - Slow cooker(s) for holding potatoes, stuffing or gravy
 - Oven thermometer (many ovens run hot or cold by 25°F or more)
-- Brining bag or food-safe bucket (wet brining only)
+- Brining bag or food-safe bucket (wet brining only; many brine kits include a bag)
+- Meat injector (for injecting marinade; see [05](05-brining-and-seasoning.md))
+- Oven bags (turkey size) or 100% cotton cheesecloth (see [06](06-roasting-turkey.md))
+- Frying thermometer and the fryer maker's oil amount (deep frying only; see [12](12-food-safety.md))
 - Thermos for gravy
 - Extra fridge space or a cooler with ice for drinks
 - Potato ricer or masher

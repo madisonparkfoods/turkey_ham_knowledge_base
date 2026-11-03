@@ -27,6 +27,15 @@ Plan ⅓–½ cup gravy per person. For 12 people, make about 5–6 cups.
 3. Make the gravy with butter and flour as above.
 4. Refrigerate up to 2 days (or freeze up to 4 months). On the day, reheat and whisk in the defatted pan drippings for extra flavor.
 
+## Shortcut gravy (mixes, jars and bases)
+
+Gravy mix packets, jarred gravy and concentrated turkey bases or bouillon are a good backup or a way to stretch homemade gravy.
+
+- **Doctor it:** whisk in defatted pan drippings, a splash of stock, and a pinch of dried herbs or a salt-free rub. Simmer a few minutes.
+- **Salt:** mixes, jars and bases are usually salty. Taste before adding any salt or salty drippings from a brined bird, and use low-sodium stock to dilute.
+- **Gluten-free:** many gravy mixes contain wheat flour. Look for a mix labeled gluten-free, or thicken with a cornstarch slurry (above).
+- **Turkey base or bouillon** dissolved in water makes a quick stock for make-ahead gravy or stuffing when you have no wings or necks to roast.
+
 ## Fixing gravy
 
 | Problem | Fix |

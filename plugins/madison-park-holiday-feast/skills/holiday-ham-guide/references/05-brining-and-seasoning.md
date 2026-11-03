@@ -39,6 +39,31 @@ Pick **one** method: dry brine **or** wet brine **or** a pre-salted (kosher/enha
 
 **Using a commercial brine kit** (such as Madison Park's Chairman of the Bird EASYBRINE): follow the kit's own salt and time instructions, since its salt level differs from homemade. Madison Park formulates the EASYBRINE brine mix's sodium for moisture retention and flavor; the kit's "low salt" label refers to its rub packets. See [16-madison-park-foods.md](16-madison-park-foods.md).
 
+### Choosing a turkey brine kit
+
+A brine kit is a premeasured brine mix, often with a brining bag and sometimes a rub or a bucket. Kit flavors (herb, citrus and orange, Cajun, apple) mostly add aroma at the surface; the salt in the mix does the juicy work. When comparing kits, check:
+
+- **Bag or bucket size:** it must hold the bird fully submerged and close tightly. "XL" bags usually fit up to about 20–30 lb; check the box against your turkey's weight.
+- **Salt instructions:** use the kit's water amount and brining time exactly. Don't add extra salt.
+- **Sodium in the extras:** included rubs may be salted or low salt. Read the label before adding more salt anywhere.
+- **Cold space:** any wet-brine kit needs the bird kept below 40°F for the whole brine.
+- **Your turkey's label:** no kit on a kosher, self-basting, enhanced or pre-brined bird.
+
+## Injecting a turkey (injector marinades)
+
+**What:** a meat injector (a large syringe with a perforated needle) pushes a liquid marinade, usually melted butter, broth and seasonings, deep into the meat. It's popular for fried and smoked turkeys, where a rub on the skin can't flavor the inside.
+
+**How:**
+
+1. Use a thin, smooth liquid. Strain out herb bits or use a wide-bore needle; ground spices and dried herbs clog fine needles. Liquid butter mixtures must be warm enough to flow, so inject right after mixing.
+2. A common guideline is about **1 oz of marinade per pound** of turkey, spread over many sites: several in each breast half, plus the thighs and drumsticks. Push the needle in, then press slowly as you pull it out.
+3. Wipe off any marinade that runs out onto the skin, especially before frying (liquid on the surface spatters in hot oil).
+4. Inject just before cooking, or refrigerate the injected bird and cook it within a day.
+
+**Salt:** most store-bought injector marinades, including Cajun-style ones, are salty. Treat a salted injection as your brine: **don't also wet brine or dry brine, and don't inject a kosher, self-basting or enhanced turkey with a salted marinade.** A low-salt option: melted unsalted butter mixed with broth and a salt-free rub, strained, then salted to taste.
+
+**Food safety:** mix only what you need, use a clean injector, and throw out marinade that touched the needle after it went into raw meat. Injecting doesn't change the target: 165°F in the breast. See [12-food-safety.md](12-food-safety.md).
+
 ## Do NOT brine if
 
 - The label says **kosher, self-basting, enhanced, pre-brined, or "contains up to X% solution."**

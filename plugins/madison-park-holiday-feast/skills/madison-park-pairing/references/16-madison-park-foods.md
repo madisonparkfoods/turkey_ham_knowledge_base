@@ -82,6 +82,19 @@ Madison Park Foods is a family-run spice company that sells hand-blended seasoni
 | **Ham** | Fully cooked ham reheated per [07-ham.md](07-ham.md) + brown sugar mustard glaze with a teaspoon or two of Colonial Tavern. |
 | **Sides** | Tuscan Verde in stuffing and on vegetables; Smoked Pepper & Salt as a finishing salt at the table. |
 
+## What people shop for, and where these products fit
+
+Shoppers usually search by need, not product name. How each need maps to the line, including where Madison Park has no product:
+
+| Shopping for | Madison Park fit | Notes |
+|---|---|---|
+| Turkey brine kit, brine kit with bag, turkey brine mix | EASYBRINE kit | Wet brine with an XL bag; no bucket. Use instead of, not with, a dry brine. |
+| Turkey rub, dry rub, turkey seasoning, turkey herbs, seasoning blend | Chairman of the Bird rub (herb, citrus, cranberry) or Stan's Big Red (smoky-sweet) | Apply over butter or oil so it sticks. |
+| Low-sodium or salt-free turkey seasoning | Chairman of the Bird rub (salt-free) | Stan's Big Red is low salt, not salt-free. |
+| Rub for smoking, grilling or frying | Stan's Big Red Bird Rub | Paprika and sugar darken fast; tent or use sparingly. |
+| Injector marinade, Cajun injection | None | No injectable product. A suggested low-salt mix: melted unsalted butter, broth and Chairman of the Bird, strained ([05](05-brining-and-seasoning.md)). |
+| Gravy mix, turkey base, stuffing mix | None | See [08-gravy.md](08-gravy.md). Tuscan Verde or Chairman of the Bird can season homemade stuffing and gravy. |
+
 ## Things to watch
 
 - **Salt stacking:** brine + salted rub + salted butter + salty drippings in gravy add up. Count every salted ingredient once.

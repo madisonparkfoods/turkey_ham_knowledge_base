@@ -1,6 +1,6 @@
 ---
 name: food-safety-and-leftovers
-description: Answer holiday food-safety questions using USDA guidance - safe internal temperatures for turkey, stuffing and ham, thawing rules, the 2-hour rule, cross-contamination, deep-fryer safety, and how long leftovers keep, how to freeze and reheat them, plus making stock from the carcass and leftover ideas. Use for "is this safe", "how long does it keep", and leftover questions.
+description: Answer holiday food-safety questions using USDA guidance - safe internal temperatures for turkey, stuffing and ham, thawing rules, the 2-hour rule, cross-contamination, deep-fryer safety and fryer oil, and how long leftovers keep, how to freeze and reheat them, plus making stock or bone broth from the carcass and leftover ideas. Use for "is this safe", "how long does it keep", and leftover questions.
 ---
 
 # Food Safety and Leftovers

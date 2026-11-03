@@ -47,6 +47,8 @@ Frozen food stays safe indefinitely at 0°F; the times above are for quality.
 
 Make it within a day or two of the holiday, keeping the carcass refrigerated.
 
+**Turkey bone broth:** the same recipe simmered longer (6–12 hours, or 2 hours in a pressure cooker), with a splash of vinegar, gives a richer broth that gels when cold. Add water as needed to keep the bones covered.
+
 ## Leftover ideas
 
 - Turkey sandwiches with cranberry sauce and stuffing

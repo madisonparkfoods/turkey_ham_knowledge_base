@@ -71,9 +71,28 @@ Possible but harder. The stuffing in the center must reach **165°F**, and by th
 ## Other methods (brief)
 
 - **Smoked turkey:** smoke at 275–325°F. Lower temperatures make rubbery skin; finish hot or accept softer skin. Smaller birds (under 14 lb) are best; must reach 165°F. A smoky, slightly sweet rub (e.g., Madison Park's Stan's Big Red Bird Rub) suits this.
-- **Deep-fried turkey:** fast and delicious but the most dangerous holiday cooking. See the safety section in [12-food-safety.md](12-food-safety.md). Only fully thawed, completely dry birds; outdoors only.
-- **Roasting bag:** speeds cooking and keeps meat moist; skin browns less. Follow the bag's instructions (usually 350°F and 1 tbsp flour shaken inside).
+  - **Wood or pellets:** turkey takes smoke easily, so mild woods work best: apple, cherry, maple, pecan, or a little hickory. Pellet "turkey blends" are usually fruitwood-based. Mesquite over a long smoke can taste bitter.
+  - Dry brine or inject (not both) before smoking; smoked skin doesn't crisp much, so dry the skin well.
+- **Deep-fried turkey:** fast and delicious but the most dangerous holiday cooking. See the safety section in [12-food-safety.md](12-food-safety.md). Only fully thawed, completely dry birds; outdoors only. Inject for flavor rather than brining wet, and season the skin lightly after it's dry.
+- **Oven bag (roasting bag):** speeds cooking and keeps meat moist; skin browns less. Buy the turkey size (fits up to about 24 lb). Follow the bag's instructions: usually shake 1 tbsp flour inside, cut a few small slits in the top, roast at 350°F in a pan at least 2 inches deep, and keep the bag clear of the oven walls and top element. Times are shorter than open roasting; check the temperature early.
+- **Cheesecloth method:** soak a double layer of 100% cotton cheesecloth in melted butter (and a salt-free rub, if you like), drape it over the breast and legs, and roast as in Method A. Remove the cloth for the last 30–45 minutes so the skin browns. It keeps the breast from drying out and replaces basting. Keep the cloth tucked onto the pan, away from oven elements.
 - **Grill (indirect heat):** treat like a 325–350°F oven with the turkey away from direct flame; rotate for even cooking.
+
+## Roasting pans
+
+- **Sturdy roasting pan with a rack:** best for a whole bird and for making gravy right in the pan on the stove.
+- **Disposable foil roasting pan:** fine, but always set it on a rimmed sheet pan. A full foil pan bends when lifted and can spill hot fat. Don't put it on a burner for gravy; pour the drippings into a saucepan instead. Extra-large foil pans hold birds over 20 lb but check that they fit your oven first.
+- **Spatchcock:** a rimmed sheet pan with a rack is all you need.
+- No rack? Set the turkey on thick slices of onion, carrot and celery, or coils of foil.
+
+## Turkey parts (legs, thighs, drumsticks, wings)
+
+For dark-meat fans, small groups, or extra pieces alongside a whole bird:
+
+- **Thighs and drumsticks:** roast at 375°F, about 1–1½ hours, until **175–180°F** near the bone. Dark meat is tender and forgiving at these temperatures. Braising (covered, partly submerged in stock, 325°F for about 2 hours) makes them fall-apart tender.
+- **Wings:** roast at 375–400°F about 1 hour until browned and 175°F or more. Roasted wings and necks also make the best make-ahead gravy stock ([08-gravy.md](08-gravy.md)).
+- **Boneless turkey breast roast:** roast at 325–350°F to 160–165°F; it cooks faster than bone-in, so start checking early. Season under any netting or on the surface.
+- **Smoked turkey legs, wings or necks** from the store are usually fully cooked (check the label). Reheat them to 165°F to eat, or simmer them in greens, beans or soup for smoky flavor.
 
 ## Pan drippings
 

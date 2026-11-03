@@ -22,6 +22,8 @@ Neither is "better" for a first-timer. Frozen is fine if you start thawing on ti
 | **Heritage** | Older breeds; more dark meat, less breast, cooks faster. Use a thermometer early. |
 | **Pre-brined** | Already brined. Do not brine again. |
 | **Free-range, organic, pasture-raised** | Raising standards; no change to cooking method. |
+| **Halal** | Slaughtered according to Islamic practice. Not usually pre-salted, but check for "solution" on the label. |
+| **Fully cooked / smoked / oven-roasted** (whole turkey, breast or parts) | Ready to eat. Reheat to 165°F; don't brine. Follow the package's reheating directions. |
 
 ### Size
 

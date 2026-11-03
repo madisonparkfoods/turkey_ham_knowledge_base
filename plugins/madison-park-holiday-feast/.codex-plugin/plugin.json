@@ -35,8 +35,8 @@
     "logo": "./assets/logo.png",
     "composerIcon": "./assets/composer-icon.png",
     "websiteURL": "https://madisonparkfoods.com/",
-    "supportURL": "TODO-replace-with-support-URL",
-    "privacyPolicyURL": "TODO-replace-with-privacy-policy-URL",
-    "termsOfServiceURL": "TODO-replace-with-terms-of-service-URL"
+    "supportURL": "https://madisonparkfoods.com/contact/",
+    "privacyPolicyURL": "https://madisonparkfoods.com/privacy-policy/",
+    "termsOfServiceURL": "https://madisonparkfoods.com/privacy-policy/"
   }
 }

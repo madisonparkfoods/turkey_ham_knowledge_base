@@ -53,9 +53,9 @@ In Claude Code, skills are namespaced, e.g. `/madison-park-holiday-feast:turkey-
 
 ## Support and privacy
 
-- Support: TODO-replace-with-support-URL
-- Privacy policy: TODO-replace-with-privacy-policy-URL
-- Terms of service: TODO-replace-with-terms-of-service-URL
+- Support: https://madisonparkfoods.com/contact/
+- Privacy policy: https://madisonparkfoods.com/privacy-policy/
+- Terms of service: https://madisonparkfoods.com/privacy-policy/
 - Madison Park Foods: https://madisonparkfoods.com/
 
 ## License

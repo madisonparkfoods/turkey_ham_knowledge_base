@@ -59,6 +59,7 @@ Turkey fryers cause fires, burns and property damage every year. If you fry:
 - Never leave the fryer unattended. Keep children and pets away. Keep a **Class B (or ABC) fire extinguisher** nearby. **Never use water on an oil fire.**
 - Let the oil cool completely (hours) before moving it.
 - Turkeys under about 14 lb are safest to fry.
+- **Fryer oil:** use an oil with a high smoke point, such as peanut, canola or another oil sold for frying. Heat to the fryer maker's temperature (usually about 350°F) and keep a frying thermometer in the oil. If you use peanut oil, tell guests in case of a peanut allergy. Strained, cooled oil can be stored sealed and reused a few times; never pour used oil down the drain.
 
 Consider an oil-less fryer or roasting instead if any of these steps can't be done.
 
