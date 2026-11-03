@@ -1,16 +1,17 @@
 # Holiday Feast Marketplace
 
-One plugin, **madison-park-holiday-feast**, packaged for both **Claude** and **ChatGPT/Codex**: eight skills and a 19-file knowledge base for cooking a Thanksgiving or holiday turkey or ham, timing the meal, food safety and leftovers, and using Madison Park Foods products. A Custom GPT version is included for one-link sharing and the GPT Store.
+One plugin, **madison-park-holiday-feast**, packaged for **Claude**, **ChatGPT/Codex** and **Gemini CLI**: eight skills and a 19-file knowledge base for cooking a Thanksgiving or holiday turkey or ham, timing the meal, food safety and leftovers, and using Madison Park Foods products. A Custom GPT version is included for one-link sharing and the GPT Store.
 
-| | Claude | ChatGPT / Codex |
-|---|---|---|
-| Skills | `skills/<name>/SKILL.md` (shared) | same files |
-| Per-skill UI metadata | — | `skills/<name>/agents/openai.yaml` |
-| Plugin manifest | `plugins/madison-park-holiday-feast/.claude-plugin/plugin.json` | `plugins/madison-park-holiday-feast/.codex-plugin/plugin.json` |
-| Marketplace | `.claude-plugin/marketplace.json` | `.agents/plugins/marketplace.json` |
-| Single-assistant alternative | — | Custom GPT in `custom-gpt/` (GPT Store) |
-| Single-skill uploads | `dist/skills/<name>.zip` | `dist/skills/<name>.zip` |
-| Directory upload archive | — (submit the GitHub repo) | `dist/plugin/madison-park-holiday-feast.zip` |
+| | Claude | ChatGPT / Codex | Gemini CLI |
+|---|---|---|---|
+| Skills | `skills/<name>/SKILL.md` (shared) | same files | same files |
+| Per-skill UI metadata | — | `skills/<name>/agents/openai.yaml` | — |
+| Plugin manifest | `plugins/madison-park-holiday-feast/.claude-plugin/plugin.json` | `plugins/madison-park-holiday-feast/.codex-plugin/plugin.json` | `plugins/madison-park-holiday-feast/gemini-extension.json` |
+| Always-loaded context | — | — | `plugins/madison-park-holiday-feast/GEMINI.md` |
+| Marketplace | `.claude-plugin/marketplace.json` | `.agents/plugins/marketplace.json` | Extension gallery (GitHub release + repo topic) |
+| Single-assistant alternative | — | Custom GPT in `custom-gpt/` (GPT Store) | — |
+| Single-skill uploads | `dist/skills/<name>.zip` | `dist/skills/<name>.zip` | — |
+| Directory upload archive | — (submit the GitHub repo) | `dist/plugin/madison-park-holiday-feast.zip` | `dist/gemini/madison-park-holiday-feast.zip` (release asset) |
 
 ```
 holiday-feast-marketplace/
@@ -19,6 +20,8 @@ holiday-feast-marketplace/
 ├── plugins/madison-park-holiday-feast/
 │   ├── .claude-plugin/plugin.json
 │   ├── .codex-plugin/plugin.json
+│   ├── gemini-extension.json              # Gemini CLI extension manifest
+│   ├── GEMINI.md                          # Gemini CLI context (skill list, guardrails)
 │   ├── README.md                          # also the directory listing description
 │   ├── LICENSE                            # copy of the root LICENSE
 │   ├── assets/                            # logo and composer icon (Madison Park Foods emblem)
@@ -73,9 +76,26 @@ codex plugin list
 - **Workspace:** ChatGPT workspace admins can publish the plugin to selected roles from ChatGPT Plugins.
 - **Public:** OpenAI's universal plugin directory (shared by ChatGPT and Codex) takes submissions through a review process. Upload `dist/plugin/madison-park-holiday-feast.zip` in the OpenAI plugin portal; see [`PUBLISHING.md`](PUBLISHING.md) for what to finish first.
 
+## Gemini CLI
+
+Gemini CLI has no marketplace file. It installs an extension from a local folder or a GitHub repository, and its public gallery at geminicli.com/extensions indexes GitHub repositories on its own. The plugin folder doubles as the extension: `gemini-extension.json` and `GEMINI.md` sit next to the shared `skills/`, which Gemini CLI loads as agent skills.
+
+```bash
+gemini extensions install ./holiday-feast-marketplace/plugins/madison-park-holiday-feast
+gemini extensions list
+```
+
+Gemini CLI wants `gemini-extension.json` at the root of the repository or of a release archive, and here it is one folder down. So for a GitHub install, attach `dist/gemini/madison-park-holiday-feast.zip` to a GitHub release, which has the manifest at its root:
+
+```bash
+gemini extensions install https://github.com/madisonparkfoods/turkey_ham_knowledge_base
+```
+
+Gemini CLI uses the Latest release's archive. Install a specific version with `--ref <tag>`. See [`PUBLISHING.md`](PUBLISHING.md) for gallery listing.
+
 ## Custom GPT (GPT Store)
 
-See [`custom-gpt/README.md`](custom-gpt/README.md): paste `custom-gpt/instructions.md` (5,357 of 8,000 characters), upload the 19 knowledge files, add the four conversation starters. Share by link or publish to the GPT Store.
+See [`custom-gpt/README.md`](custom-gpt/README.md): paste `custom-gpt/instructions.md` (5,413 of 8,000 characters), upload the 19 knowledge files, add the four conversation starters. Share by link or publish to the GPT Store.
 
 ## Build
 
@@ -97,6 +117,6 @@ python3 scripts/build_dist.py        # rebuild dist/ and check limits
 - Food-safety numbers follow USDA FSIS guidance (see `plugins/madison-park-holiday-feast/knowledge/sources.md`).
 - Madison Park Foods product details were checked 2026-11-01. This is Madison Park Foods' official holiday cooking plugin.
 - Thanksgiving dates in the knowledge base are for 2026.
-- Bump `version` in both plugin manifests and the Claude marketplace entry when publishing changes.
+- Bump `version` in all three plugin manifests (Claude, Codex, Gemini) and the Claude marketplace entry when publishing changes. `build_dist.py` fails if they differ.
 - License: proprietary, free to use. See [`LICENSE`](LICENSE) (a copy sits in the plugin folder, where both directories look for it).
-- Before submitting to the Claude or OpenAI directory, work through [`PUBLISHING.md`](PUBLISHING.md).
+- Before submitting to the Claude, OpenAI or Gemini directory, work through [`PUBLISHING.md`](PUBLISHING.md).

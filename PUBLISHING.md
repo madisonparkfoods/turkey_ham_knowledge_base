@@ -1,8 +1,8 @@
 # Publishing checklist
 
-This covers what's still needed before submitting `madison-park-holiday-feast` to the Claude plugin directory and the OpenAI (ChatGPT/Codex) plugin directory. Requirements were checked on 2026-11-02 against the docs linked at the bottom. Re-check them before submitting.
+This covers what's still needed before submitting `madison-park-holiday-feast` to the Claude plugin directory, the OpenAI (ChatGPT/Codex) plugin directory and the Gemini CLI extension gallery. Requirements were checked on 2026-11-02 against the docs linked at the bottom. Re-check them before submitting.
 
-The plugin folder is `plugins/madison-park-holiday-feast/`. Both directories read the plugin's manifest, README and LICENSE from there.
+The plugin folder is `plugins/madison-park-holiday-feast/`. The Claude and OpenAI directories read the plugin's manifest, README and LICENSE from there. Gemini CLI reads them from a release archive built from it.
 
 ## Already done
 
@@ -24,6 +24,7 @@ The plugin folder is `plugins/madison-park-holiday-feast/`. Both directories rea
 - [x] **Claude-specific wording.** No skill text refers to Claude by name, so it works as written on OpenAI.
 - [x] **Official artwork.** `assets/logo.png` (512×512) and `assets/composer-icon.png` (256×256) are the Madison Park Foods emblem, taken from the logo banner on madisonparkfoods.com (`wp-content/uploads/MPD-Logo-Slider-var2.jpg`, 1200×800) and centered on a square white canvas. For a sharper icon, replace them with higher-resolution art from the original design files. Keep them square, at least 48×48, PNG/JPEG/WebP/SVG and under 5 MiB.
 - [x] **OpenAI upload archive.** `python3 scripts/build_dist.py` builds `dist/plugin/madison-park-holiday-feast.zip`.
+- [x] **Gemini CLI extension.** `gemini-extension.json` (name, version, description, `contextFileName`) and a short `GEMINI.md` with the skill list and food-safety guardrails sit in the plugin folder, so the shared `skills/` load as Gemini agent skills. `build_dist.py` builds `dist/gemini/madison-park-holiday-feast.zip` with the manifest at the archive root and fails if the manifest versions disagree. It hasn't been tested in Gemini CLI yet, because it isn't installed here.
 - [x] **Local check.** `claude plugin validate .` and `claude plugin validate ./plugins/madison-park-holiday-feast` both pass.
 
 ## To do before submitting (you)
@@ -32,7 +33,8 @@ The plugin folder is `plugins/madison-park-holiday-feast/`. Both directories rea
 - [ ] **Legal review of `LICENSE`.** I drafted it as a starting point, not legal advice. Check especially that section 2 still allows the directories to distribute the plugin.
 - [x] **Promotional balance.** The Anthropic Software Directory Policy (section 4C) excludes software that "exists primarily as an advertising or promotional vehicle". On 2026-11-02 the knowledge base was trimmed back to product mentions that help the cook. Products appear only where a seasoning is used, with honest trade-offs in `16-madison-park-foods.md` and the `madison-park-pairing` skill. Keep it that way: cooking guidance first, products only where they help.
 - [ ] **OpenAI category.** OpenAI doesn't publish its allowed `category` values. Confirm in the dashboard that `Lifestyle` exists, or pick the closest one.
-- [ ] **Version.** Bump `version` in both plugin manifests and in `.claude-plugin/marketplace.json` for any change after the first submission.
+- [ ] **Gemini test install.** Install Gemini CLI, run `gemini extensions install ./plugins/madison-park-holiday-feast`, check that the eight skills appear (`/skills list`) and try a prompt.
+- [ ] **Version.** Bump `version` in all three plugin manifests and in `.claude-plugin/marketplace.json` for any change after the first submission.
 - [ ] **Commit and push** to `madisonparkfoods/turkey_ham_knowledge_base`, with this folder as the repository root.
 - [ ] **Existing installs.** Anyone who installed the old `holiday-feast` from this marketplace has to uninstall it and install `madison-park-holiday-feast@holiday-feast-marketplace`. Skill commands are now `/madison-park-holiday-feast:<skill>`.
 
@@ -50,6 +52,14 @@ The plugin folder is `plugins/madison-park-holiday-feast/`. Both directories rea
 3. Review the manifest that the portal generates (it fills in missing interface defaults), the listing fields and the country targeting. Then fix every scan result and complete the policy attestations.
 4. Submit for OpenAI review. Skills-only plugins don't need test cases, a demo recording or reviewer credentials. Approval in the Claude directory doesn't carry over.
 
+## Listing in the Gemini CLI extension gallery
+
+There's no submission form. The gallery at https://geminicli.com/extensions crawls GitHub every day.
+
+1. Make the repository public, and add the topic `gemini-cli-extension` in its **About** section.
+2. Run `python3 scripts/build_dist.py`. Create a GitHub release with a tag matching the version (for example `v1.0.0`), mark it **Latest**, and attach `dist/gemini/madison-park-holiday-feast.zip` as its only asset. The manifest has to be at the root of the repository or the release archive. Here it's one folder down, so the archive is what Gemini CLI uses.
+3. The extension appears once it passes the gallery's validation, which isn't documented. Users install with `gemini extensions install https://github.com/madisonparkfoods/turkey_ham_knowledge_base`, and later releases reach them through `gemini extensions update`, which checks the Latest release rather than the `version` field.
+
 ## Custom GPT (GPT Store)
 
 This is a separate listing, set up as in [`custom-gpt/README.md`](custom-gpt/README.md). A GPT Store listing needs a verified builder profile. Add the privacy policy URL to the GPT's configuration once you have one.
@@ -61,3 +71,5 @@ This is a separate listing, set up as in [`custom-gpt/README.md`](custom-gpt/REA
 - OpenAI, submit a Claude plugin: https://developers.openai.com/plugins/guides/submit-claude-plugin
 - OpenAI, plugin submission fields: https://developers.openai.com/plugins/deploy/submission
 - OpenAI, plugin structure: https://developers.openai.com/plugins/build/plugins
+- Gemini CLI extension reference: https://geminicli.com/docs/extensions/reference/
+- Gemini CLI, releasing extensions: https://geminicli.com/docs/extensions/releasing/

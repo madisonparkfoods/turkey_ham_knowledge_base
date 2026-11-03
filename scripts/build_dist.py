@@ -9,12 +9,16 @@ Produces:
   dist/custom-gpt/knowledge/  the knowledge files to upload to a Custom GPT
   dist/custom-gpt/instructions.md
   dist/plugin/<plugin>.zip    the whole plugin folder, for the OpenAI plugin portal
+  dist/gemini/<plugin>.zip    the Gemini CLI extension, gemini-extension.json at the
+                              archive root, to attach to a GitHub release
 
 Also checks that skill references are in sync, the Custom GPT
 instructions fit the 8,000-character limit, the plugin's LICENSE copy
-matches the root one, and the plugin folder has no OS junk files. Warns
+matches the root one, the manifest versions agree, and the plugin folder
+has no OS junk files. Warns
 about TODO placeholders that must be filled in before directory submission.
 """
+import json
 import shutil
 import subprocess
 import sys
@@ -27,6 +31,12 @@ DIST = ROOT / "dist"
 GPT_LIMIT = 8000
 GPT_FILE_LIMIT = 20
 JUNK = {".DS_Store", "Thumbs.db", "desktop.ini", "__MACOSX"}
+MANIFESTS = [
+    PLUGIN / ".claude-plugin" / "plugin.json",
+    PLUGIN / ".codex-plugin" / "plugin.json",
+    PLUGIN / "gemini-extension.json",
+]
+GEMINI_SKIP = {".claude-plugin", ".codex-plugin"}
 
 
 def main() -> int:
@@ -49,6 +59,13 @@ def main() -> int:
 
     if (PLUGIN / "LICENSE").read_bytes() != (ROOT / "LICENSE").read_bytes():
         print("plugins/*/LICENSE differs from the root LICENSE; copy it over.", file=sys.stderr)
+        return 1
+
+    versions = {m.relative_to(ROOT).as_posix(): json.loads(m.read_text())["version"] for m in MANIFESTS}
+    market = json.loads((ROOT / ".claude-plugin" / "marketplace.json").read_text())
+    versions[".claude-plugin/marketplace.json"] = next(p["version"] for p in market["plugins"] if p["name"] == PLUGIN.name)
+    if len(set(versions.values())) > 1:
+        print("Manifest versions differ:\n  " + "\n  ".join(f"{k}: {v}" for k, v in versions.items()), file=sys.stderr)
         return 1
 
     junk = [p for p in PLUGIN.rglob("*") if p.name in JUNK]
@@ -80,6 +97,15 @@ def main() -> int:
             if f.is_file():
                 z.write(f, Path(PLUGIN.name) / f.relative_to(PLUGIN))
     print(f"dist/plugin/{out.name}")
+
+    (DIST / "gemini").mkdir()
+    out = DIST / "gemini" / f"{PLUGIN.name}.zip"
+    with zipfile.ZipFile(out, "w", zipfile.ZIP_DEFLATED) as z:
+        for f in sorted(PLUGIN.rglob("*")):
+            rel = f.relative_to(PLUGIN)
+            if f.is_file() and rel.parts[0] not in GEMINI_SKIP:
+                z.write(f, rel)
+    print(f"dist/gemini/{out.name}")
 
     gpt = DIST / "custom-gpt"
     (gpt / "knowledge").mkdir(parents=True)
