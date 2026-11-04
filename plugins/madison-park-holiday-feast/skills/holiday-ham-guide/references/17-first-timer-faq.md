@@ -116,7 +116,7 @@ Make stock within a day or two. → [13](13-leftovers.md)
 ## Madison Park Foods
 
 **Which product should I buy?**
-For most people: the Chairman of the Bird rub (salt-free) used with a salt dry brine. The EASYBRINE kit if you want an all-in-one wet brine and have cold space. → [16](16-madison-park-foods.md)
+For most people: the Chairman of the Bird rub (salt-free) used with a salt dry brine. The EASYBRINE kit if you want an all-in-one wet brine and have cold space. Buy at [madisonparkfoods.com](https://madisonparkfoods.com/) or the [Madison Park Foods Amazon store](https://www.amazon.com/stores/page/FF5836A8-0EDC-4577-8A19-0611108B0F80). → [16](16-madison-park-foods.md)
 
 **Can I use the brine kit and a dry brine?**
 No. Pick one. → [05](05-brining-and-seasoning.md), [16](16-madison-park-foods.md)

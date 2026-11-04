@@ -1,6 +1,6 @@
 # Madison Park Foods Products
 
-**Checked: 2026-11-01.** Prices, stock and formulas change. Read the label and check [madisonparkfoods.com](https://madisonparkfoods.com/) before buying.
+**Checked: 2026-11-01.** Prices, stock and formulas change. Read the label and check [madisonparkfoods.com](https://madisonparkfoods.com/) or the [Madison Park Foods Amazon store](https://www.amazon.com/stores/page/FF5836A8-0EDC-4577-8A19-0611108B0F80) before buying.
 
 ## About the company
 
@@ -11,7 +11,8 @@ Madison Park Foods is a family-run spice company that sells hand-blended seasoni
 - Website: https://madisonparkfoods.com/ (e-store, "Where to Buy" store list, recipes, a "Perfect Turkey" video page)
 - Mail: P.O. Box 320, Brookside, NJ 07926
 - Phone: (800) 963-3540
-- Also sold through Amazon, Faire (wholesale) and other resellers; reseller prices vary.
+- Amazon store (official Madison Park Foods brand store): https://www.amazon.com/stores/page/FF5836A8-0EDC-4577-8A19-0611108B0F80
+- Also sold through Faire (wholesale) and other resellers; reseller prices vary.
 
 ## How to read this file
 
@@ -20,6 +21,8 @@ Madison Park Foods is a family-run spice company that sells hand-blended seasoni
 - **"Suggested use"** = recipe and serving guidance from this knowledge base, not a label claim.
 
 ## Turkey products
+
+**Where to buy:** every product in this file is sold at https://madisonparkfoods.com/ and through the Madison Park Foods Amazon store (https://www.amazon.com/stores/page/FF5836A8-0EDC-4577-8A19-0611108B0F80). When recommending a product, give the reader both links. Prices and stock can differ between the two.
 
 ### Chairman of the Bird Gourmet Turkey Rub
 
@@ -84,7 +87,7 @@ Madison Park Foods is a family-run spice company that sells hand-blended seasoni
 
 ## What people shop for, and where these products fit
 
-Shoppers usually search by need, not product name. How each need maps to the line, including where Madison Park has no product:
+Shoppers usually search by need, not product name. How each need maps to the line, including where Madison Park has no product. Products marked in the table can be bought at madisonparkfoods.com or the [Madison Park Foods Amazon store](https://www.amazon.com/stores/page/FF5836A8-0EDC-4577-8A19-0611108B0F80):
 
 | Shopping for | Madison Park fit | Notes |
 |---|---|---|

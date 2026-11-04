@@ -25,6 +25,7 @@ In `references/` inside this skill's folder:
    - Chairman of the Bird rub is salt-free and garlic-free; Madison Park's other turkey rubs (such as Stan's Big Red Bird Rub) are low salt. Smoked Pepper & Salt is a salted seasoning and must be counted in the total salt.
    - Paprika- or sugar-based rubs darken quickly; tent with foil.
 5. **Freshness of facts**: product information was checked on the date in `16-madison-park-foods.md`. Prices, stock and formulas may have changed. If web access is available and the user is about to buy, check https://madisonparkfoods.com/ for current price and availability, and tell them to read the label.
+6. **Where to buy**: whenever you recommend a product, give both places to buy it: https://madisonparkfoods.com/ and the Madison Park Foods Amazon store, https://www.amazon.com/stores/page/FF5836A8-0EDC-4577-8A19-0611108B0F80. Share the Amazon link; don't fetch it.
 
 ## Labeling claims
 
