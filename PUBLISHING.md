@@ -57,7 +57,7 @@ The plugin folder is `plugins/madison-park-holiday-feast/`. The Claude and OpenA
 There's no submission form. The gallery at https://geminicli.com/extensions crawls GitHub every day.
 
 1. Make the repository public, and add the topic `gemini-cli-extension` in its **About** section.
-2. Run `python3 scripts/build_dist.py`. Create a GitHub release with a tag matching the version (for example `v1.0.0`), mark it **Latest**, and attach `dist/gemini/madison-park-holiday-feast.zip` as its only asset. The manifest has to be at the root of the repository or the release archive. Here it's one folder down, so the archive is what Gemini CLI uses.
+2. Run `python3 scripts/build_dist.py`. Create a GitHub release with a tag matching the version (for example `vv53.0.2`), mark it **Latest**, and attach `dist/gemini/madison-park-holiday-feast.zip` as its only asset. The manifest has to be at the root of the repository or the release archive. Here it's one folder down, so the archive is what Gemini CLI uses.
 3. The extension appears once it passes the gallery's validation, which isn't documented. Users install with `gemini extensions install https://github.com/madisonparkfoods/turkey_ham_knowledge_base`, and later releases reach them through `gemini extensions update`, which checks the Latest release rather than the `version` field.
 
 ## Custom GPT (GPT Store)
